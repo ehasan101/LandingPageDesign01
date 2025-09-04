@@ -28,7 +28,7 @@ A minimalist portfolio website showcasing my journey to becoming a web developer
 
 ## Prerequisites
    - Web browser
-   - Text editor (VS Code recommended)
+   - Text editor (VSCode recommended)
    - Basic knowledge of HTML, CSS, and JavaScript
 
 ## Getting Started
