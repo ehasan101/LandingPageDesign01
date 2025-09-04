@@ -25,6 +25,10 @@ A responsive personal portfolio website showcasing my journey to becoming a web 
 5. **Current Targets** - Displays current learning goals with HTML, CSS, and Tailwind
 6. **Footer** - Contains social media links and attribution
 
+## Prerequisites
+   - Web browser
+   - Text editor (VS Code recommended)
+   - Basic knowledge of HTML, CSS, and JavaScript
 
 ## Getting Started
 1. Clone the repository:
@@ -46,8 +50,9 @@ git clone https://github.com/ehasan101/LandingPageDesign01.git
 - Implement a skills progress bar
 - Add a testimonials carousel
 
-
-
+## Contributing
+Feel free to fork this repo, add new feature or improve existing ones. Contributions are welcome!
+**Jazakallahu Khairan** _(May Allah reward you with goodness)_
 
 ## License
-This project is open source and available under the [MIT License](LICENSE).
+This project is open source and available under the [MIT License](#).
