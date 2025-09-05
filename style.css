@@ -245,7 +245,7 @@ section {
     right: 20px;
     background: linear-gradient(135deg, #00b09b, #96c93d);
     color: white;
-    padding: 16px 24px;
+    padding: 10px 10px;
     border-radius: 4px;
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
     font-size: 14px;
@@ -255,13 +255,15 @@ section {
     z-index: 1000;
     
     height: 40px;
-    align-items: center; 
+    max-width: 600px;
+    align-items: right; 
+    text-align: right;
 
 
 }
 
 .toast.error {
-    background: linear-gradient(135deg, #ff5f6d, #ffc371);
+    background: linear-gradient(135deg, #ff2c3e, #943905);
 }
 
 .toast.show {

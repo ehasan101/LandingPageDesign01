@@ -58,5 +58,5 @@ document.querySelector('.nor-btn').addEventListener('click', function() {
 });
 
 document.querySelector('.coding-box').addEventListener('click', function() {
-    showToast('Feature is coming soon!', 'error');
+    showToast('This Feature is coming soon...', 'error');
 });
