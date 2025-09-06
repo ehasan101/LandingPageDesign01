@@ -1,7 +1,7 @@
 
 # CareerMission25 - Personal Portfolio Website
 
-This is a responsive personal portfolio website built with HTML, CSS, and JavaScript, created as a project to help me learn web design and development. The design is adaptable to various screen sizes, providing an opportunity to practice and refine skills in creating modern, user-friendly websites.
+A responsive personal portfolio website designed to help me learn web design and development, built with HTML, CSS, and JavaScript. This responsive single-page website features a clean, modern layout, smooth scrolling, and interactive elements, providing an engaging way to showcase my skills while sharpening my web development abilities.
 
 
 ## Features
