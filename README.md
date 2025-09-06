@@ -35,6 +35,7 @@ A minimalist portfolio website showcasing my journey to becoming a web developer
 1. Clone the repository:
 ```bash
 git clone https://github.com/ehasan101/LandingPageDesign01.git
+cd LandingPageDesign01
 ```
 2. Open `index.html` in your browser to view the website
 
