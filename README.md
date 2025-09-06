@@ -1,7 +1,7 @@
 
 # CareerMission25 - Personal Portfolio Website
 
-A minimalist portfolio website showcasing my journey to becoming a web developer by 2025. Built with HTML, CSS, and JavaScript, this responsive single-page website features
+This is a responsive personal portfolio website built with HTML, CSS, and JavaScript, created as a project to help me learn web design and development. The design is adaptable to various screen sizes, providing an opportunity to practice and refine skills in creating modern, user-friendly websites.
 
 
 ## Features
