@@ -52,7 +52,7 @@ git clone https://github.com/ehasan101/LandingPageDesign01.git
 - Add a testimonials carousel
 
 ## Contributing
-Feel free to fork this repo, add new feature or improve existing ones. Contributions are welcome!
+Feel free to fork this repo, add new feature or improve existing ones. Contributions are welcome! <br>
 **Jazakallahu Khairan** _(May Allah reward you with goodness)_
 
 ## License
